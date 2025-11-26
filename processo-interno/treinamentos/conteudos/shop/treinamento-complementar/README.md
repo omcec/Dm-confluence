@@ -1,0 +1,3 @@
+# Treinamento Complementar
+
+Esta etapa do Treinamento será subdivida em duas fases: [https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/processos-internos/treinamentos/conteudos/shop/treinamento-complementar/fase-1](https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/processos-internos/treinamentos/conteudos/shop/treinamento-complementar/fase-1 "mention") e [https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/processos-internos/treinamentos/conteudos/shop/treinamento-complementar/fase-2](https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/processos-internos/treinamentos/conteudos/shop/treinamento-complementar/fase-2 "mention").

@@ -1,0 +1,7 @@
+# Finalizando o atendimento
+
+Após providenciar a solução (ou realizar os procedimentos solicitados) partiremos então para a finalização do atendimento. É extremamente importante que **todas as ações sejam devidamente registradas** no chamado. O registro deve ser realizado com o melhor nível de português possível, portanto, gentileza utilizar maiúsculas e minúsculas, acentuação e evitar abreviações. **Sempre releia todo o texto antes de concluir**, afim de conferir se o mesmo está claro e bem elaborado. Se será suficiente para que qualquer pessoa que acessar o chamado no futuro compreenda da necessidade à solução.
+
+Caso o texto da solicitação não esteja claro o suficiente para compreensão de qual era a necessidade do cliente, será necessário registrá-la na finalização.
+
+Conforme já orientado no tópico "[Identificando a necessidade do cliente](https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/orientacoes-para-atendimentos/procedimentos-no-chamado/identificando-a-necessidade-do-cliente)", as solicitações atendidas devem estar "debaixo" de um título de chamado coerente. **Caso tenham sido tratadas mais de uma solicitação e com assuntos diferentes, será necessário escriturar cada atendimento debaixo de um chamado específico.** Em linhas gerais, um chamado pode conter várias solicitações desde que todas sejam do assunto/título solicitado, mas caso hajam assuntos/títulos diferentes, os atendimentos deverão ser escriturados em chamados específicos.

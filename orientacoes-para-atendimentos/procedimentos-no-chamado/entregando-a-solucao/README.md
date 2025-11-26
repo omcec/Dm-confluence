@@ -1,0 +1,11 @@
+# Entregando a solução
+
+O suporte é [segmentado ](https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/orientacoes-para-atendimentos/segmentacao-do-suporte)tanto para que a demanda seja melhor distribuída entre a equipe quanto para que o consultor alocado numa determinada posição consiga atender todo escopo daquele setor. Entretanto, entendemos que existirão algumas situações em que a solução não estará "tão fresca" na memória do consultor, poderá ser algo que ele ainda não domine completamente e até mesmo dependa de intervenção de outros setores para a solução. Para estes casos desenvolvemos uma sequência hierárquica para a busca de soluções que é a seguinte:
+
+**1º - Base de conhecimento do consultor:** ele deve se esforçar e esgotar a sua base de conhecimento (pode/deve se valer de manuais, documentos de apoio e soluções de chamados anteriores);
+
+**2º - Base de conhecimento do setor:** ele deverá direcionar sua dúvida para outros consultores do setor por meio do canal de troca de informações;
+
+**3º - Solicitação de Ajuda:** deverá abrir uma solicitação de ajuda conforme o processo descrito em "[Solicitando ajuda](https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/orientacoes-para-atendimentos/procedimentos-no-chamado/entregando-a-solucao/solicitando-ajuda)".
+
+É muito importante estarmos atentos e bem alinhados quanto ao **escopo do atendimento** a ser prestado pela Dmaster: basicamente, o suporte deve abranger o funcionamento dos nossos aplicativos, mas como os aplicativos rodam sob o sistema operacional, então existem várias configurações que podem ser necessárias para permitir o funcionamento adequado dos nossos softwares. Todavia, existe um "limite" de até onde podemos/devemos ir, pois o equipamento do cliente (hardware e software) precisa ter boas condições de funcionamento para conseguirmos entregar o resultado esperado. Nesse contexto, exceto para clientes com contrato de manutenção, não temos uma "responsabilidade direta" com a manutenção do bom funcionamento do computador do cliente e quando necessário precisaremos orientá-lo a procurar um técnico local para solucionar o problema do equipamento para depois conseguirmos ajudar com o Sistema e aplicativos.
