@@ -1,0 +1,3 @@
+# Integração entre lojas
+
+*
