@@ -1,4 +1,4 @@
-# Caixa fiscal e
+# Frente de Caixa
 
 1º) Clicar em “Configurações ECF”;
 
@@ -10,7 +10,7 @@
 
 4º) Marcar a opção “Forçar recadastramento do ECF”;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 3.3 Continuação das configurações do frente de caixa.
 
@@ -44,4 +44,13 @@
 
 7º) O parâmetro Arredondamento de casas decimais deve sempre ficar habilitado.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+{% file src="../../.gitbook/assets/Instalação Frente de caixa.pdf" %}
+
