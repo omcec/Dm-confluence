@@ -89,4 +89,5 @@
       * [Checklist instalação](documentacao-tecnica/instalacao/terminal/checklist-instalacao.md)
       * [Checklist DMASTER FARMA](documentacao-tecnica/instalacao/terminal/checklist-dmaster-farma.md)
       * [Checklist DMASTER SHOP](documentacao-tecnica/instalacao/terminal/checklist-dmaster-shop.md)
-    * [Frente de Caixa](documentacao-tecnica/instalacao/frente-de-caixa.md)
+    * [Frente de Caixa](documentacao-tecnica/instalacao/frente-de-caixa/README.md)
+      * [Caixa fiscal e](documentacao-tecnica/instalacao/frente-de-caixa/caixa-fiscal-e.md)
