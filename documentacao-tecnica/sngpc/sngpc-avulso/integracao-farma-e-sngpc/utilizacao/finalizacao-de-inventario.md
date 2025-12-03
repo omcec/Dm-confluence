@@ -1,0 +1,3 @@
+# Finalização de inventário
+
+Para realizar a finalização de inventário, deve ser realizado primeiro o processo de remoção da integração do DMASTER SNGPC com o DMASTER FARMA, de acordo com o processo descrito em [https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/documentacao-tecnica/sngpc/integracao-farma-e-sngpc/remover-integracao](https://dmaster.gitbook.io/base-de-conhecimento-dmaster/documentacao-interna/documentacao-tecnica/sngpc/integracao-farma-e-sngpc/remover-integracao "mention"). Após desfazer a integração, o inventário poderá ser finalizado normalmente.<br>
